@@ -2,7 +2,7 @@
 - This is my portfolio account. This is where I keep finished projects that I want to showcase. To check out my old projects, visit [my old profile](https://github.com/jlucartc)
 
 You can reach me and see my other works through:
-- [my website](https://portfolio.jlucartc.tech)
+<!--- - [my website](https://portfolio.jlucartc.tech) --->
 - [Medium](https://medium.com/@jlucartc)
 - [Discord](http://discordapp.com/users/265658535461912595)
 - Telegram: @jlucartc
